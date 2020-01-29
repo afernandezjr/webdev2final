@@ -2,5 +2,5 @@
 
 # TODOs
 - [X] hellogit
-- [] learnyounode
-- [] javascripting
+- [X] learnyounode
+- [X] javascripting
