@@ -4,7 +4,7 @@
 - [X] hellogit
 - [X] learnyounode
 - [X] javascripting
-- [] How-to-npm
-- [] how-to-markdown
-- [] expressworks
-- [] patchworks
+- [X] How-to-npm
+- [X] how-to-markdown
+- [X] expressworks
+- [X] patchworks
