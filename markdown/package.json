@@ -9,7 +9,7 @@
   "devDependencies": {},
   "scripts": {
     "markdown": "how-to-markdown",
-    "markdown verify": "how-to-markdown verify touch.md",
+    "verify": "how-to-markdown verify",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
