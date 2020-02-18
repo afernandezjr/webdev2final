@@ -1,0 +1,26 @@
+{
+  "name": "npmkongiiee",
+  "version": "2.3.1",
+  "main": "index.js",
+  "scripts": {
+    "how-to-npm": "how-to-npm",
+    "how-to-npm verify": "verify npm verify",
+    "test": "node test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2",
+    "how-to-npm": "^2.5.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afernandezjr/npmkongiiee.git"
+  },
+  "bugs": {
+    "url": "https://github.com/afernandezjr/npmkongiiee/issues"
+  },
+  "homepage": "https://github.com/afernandezjr/npmkongiiee#readme",
+  "description": ""
+}

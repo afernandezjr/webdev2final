@@ -1,0 +1,19 @@
+{
+  "name": "webdev2",
+  "version": "1.0.0",
+  "description": "- [X] hellogit\r - [] learnyounode\r - [] javascripting",
+  "main": "index.js",
+
+  "scripts": {
+    "start-javascript" : "learnyounode",
+    "verify-javascript" : "learnyounode verify http-json-api-server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "learnyounode": "^4.2.1",
+    "save": "^2.4.0"
+  }
+}

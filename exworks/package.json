@@ -1,0 +1,19 @@
+{
+  "name": "exworks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "exworks-start": "expressworks",
+    "exworks-run": "expressworks run Static.js",
+    "exworks-verify": "expressworks verify Static.js",
+
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "expressworks": "^3.4.3"
+  }
+}
