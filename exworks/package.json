@@ -4,16 +4,17 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "exworks-start": "expressworks",
-    "exworks-run": "expressworks run Static.js",
-    "exworks-verify": "expressworks verify Static.js",
-
+    "start": "expressworks",
+    "run": "expressworks run Static.js",
+    "verify": "expressworks verify",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
-    "expressworks": "^3.4.3"
+    "expressworks": "^3.4.3",
+    "pug": "^2.0.4",
+    "stylus": "^0.54.7"
   }
 }
