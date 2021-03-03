@@ -14,7 +14,7 @@
   "dependencies": {
     "express": "^4.17.1",
     "expressworks": "^3.4.3",
-    "pug": "^2.0.4",
+    "pug": "^3.0.1",
     "stylus": "^0.54.7"
   }
 }
